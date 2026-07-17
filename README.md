@@ -1,3 +1,4 @@
+images/banner.png
 # 🌳FNB App Academy Learning Journey
 
 > **My journey through the FNB App Academy Programme**
