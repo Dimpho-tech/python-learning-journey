@@ -1,4 +1,4 @@
-# python-learning-journey
+# Python Learning Journey
 Notes, quizzes, exercises, and projects completed during the FNB App Academy Programme.
 # FNB App Academy Learning Journey
 
