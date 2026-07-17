@@ -1,43 +1,137 @@
-# Python Learning Journey
-Notes, quizzes, exercises, and projects completed during the FNB App Academy Programme.
-# FNB App Academy Learning Journey
+# 🌳FNB App Academy Learning Journey
 
-Welcome to my FNB App Academy learning repository.
+> **My journey through the FNB App Academy Programme**
+>
+> Documenting my learning, quizzes, coding exercises, and projects as I build my Python and software development skills.
 
-This repository contains:
+---
 
-- 📚 Lesson notes
-- 📝 Quiz answers
-- 💻 Python exercises
-- 🚀 Mini projects
-- 📖 Personal learning reflections
+## 🎯 Goals
 
-## Course Progress
+- 📚 Learn Python programming
+- 📝 Complete every lesson and quiz
+- 💻 Build practical coding skills
+- 🚀 Develop real-world projects
+- 🌱 Grow as a software developer
+
+---
+
+## 📈 Course Progress
 
 | Lesson | Topic | Status |
-|---------|-------|--------|
-| 1 | Introduction to Python | ✅ Completed |
-| 2 | Coming Soon | ⏳ |
+|:------:|--------|:------:|
+| 1 | 🐍 Introduction to Python | ✅ Completed |
+| 2 | Variables & Data Types | ⏳ Coming Soon |
+| 3 | Operators | ⏳ Coming Soon |
+| 4 | Conditional Statements | ⏳ Coming Soon |
+| 5 | Loops | ⏳ Coming Soon |
 
 ---
 
-## Lesson Structure
+# 📂 Repository Structure
 
-Each lesson contains:
-
-- Notes
-- Code examples
-- Practice exercises
-- Quiz answers
+```text
+📦 FNB-App-Academy-Learning
+│
+├── 📄 README.md
+│
+├── 📁 Lesson-01-Introduction-to-Python
+│   ├── 📝 Notes.md
+│   ├── ❓ Quiz.md
+│   ├── 🐍 Exercises.py
+│   └── ✍️ Practice.md
+│
+├── 📁 Lesson-02
+│
+├── 📁 Projects
+│
+└── 📁 Resources
+```
 
 ---
 
-## Technologies
+# 📖 Lesson 1
 
-- Python
-- Git
-- GitHub
+## 🐍 Introduction to Python
+
+### Topics Covered
+
+- ✅ What is Python?
+- ✅ Why Learn Python?
+- ✅ Python Syntax
+- ✅ Variables
+- ✅ Data Types
+- ✅ print() Function
 
 ---
 
-Created by **Dimpho Motsoaledi**
+# 🧠 Skills Learned
+
+- Python Basics
+- Variables
+- Strings
+- Integers
+- Floats
+- Booleans
+- Lists
+- Writing Python Code
+
+---
+
+# 🛠 Technologies
+
+| Technology | Purpose |
+|------------|---------|
+| 🐍 Python | Programming Language |
+| 🌐 GitHub | Version Control |
+| 💻 VS Code | Code Editor |
+| 📝 Markdown | Documentation |
+
+---
+
+# 📊 Progress Tracker
+
+```text
+█████░░░░░░░░░░░░░░░░ 5%
+```
+
+As I complete more lessons, this tracker will grow!
+
+---
+
+# 🚀 Projects
+
+Projects developed during the programme will be stored here.
+
+- 🔹 Coming Soon
+
+---
+
+# 📚 Resources
+
+Helpful learning materials:
+
+- Python Documentation
+- FNB App Academy Notes
+- Practice Exercises
+
+---
+
+# 🌟 Why This Repository?
+
+This repository serves as my:
+
+- 📒 Study notebook
+- 💼 Developer portfolio
+- 🧠 Knowledge base
+- 📈 Progress tracker
+
+---
+
+## 👨‍💻 Author
+
+**Dimpho Motsoaledi**
+
+*"Every expert was once a beginner."*
+
+⭐ If you enjoyed exploring this repository, feel free to leave a star!
